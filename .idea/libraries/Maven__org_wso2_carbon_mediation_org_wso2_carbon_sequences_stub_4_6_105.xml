@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.mediation:org.wso2.carbon.sequences.stub:4.6.105">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/mediation/org.wso2.carbon.sequences.stub/4.6.105/org.wso2.carbon.sequences.stub-4.6.105.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/mediation/org.wso2.carbon.sequences.stub/4.6.105/org.wso2.carbon.sequences.stub-4.6.105-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/mediation/org.wso2.carbon.sequences.stub/4.6.105/org.wso2.carbon.sequences.stub-4.6.105-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
